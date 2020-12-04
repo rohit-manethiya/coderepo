@@ -229,23 +229,59 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PJ</field>
+            <field>00N2w00000IarHc</field>
+            <label>Amended Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHd</field>
+            <label>Contracted</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHe</field>
+            <label>Create Contracted Prices</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000FxNvv</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PK</field>
+            <field>00N2w00000FxNvw</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PL</field>
+            <field>00N2w00000FxNvx</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PM</field>
+            <field>00N2w00000IarHg</field>
+            <label>Ordered</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHf</field>
+            <label>Order Group ID</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000FxNvy</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PN</field>
+            <field>00N2w00000IarHh</field>
+            <label>Primary Quote</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHi</field>
+            <label>Quote Pricebook Id</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHj</field>
+            <label>Renewal</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHk</field>
+            <label>Renewed Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000FxNvz</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
@@ -282,11 +318,20 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N2w00000Hf1PJ</field>
-            <field>00N2w00000Hf1PK</field>
-            <field>00N2w00000Hf1PL</field>
-            <field>00N2w00000Hf1PM</field>
-            <field>00N2w00000Hf1PN</field>
+            <field>00N2w00000IarHc</field>
+            <field>00N2w00000IarHd</field>
+            <field>00N2w00000IarHe</field>
+            <field>00N2w00000FxNvv</field>
+            <field>00N2w00000FxNvw</field>
+            <field>00N2w00000FxNvx</field>
+            <field>00N2w00000IarHg</field>
+            <field>00N2w00000IarHf</field>
+            <field>00N2w00000FxNvy</field>
+            <field>00N2w00000IarHh</field>
+            <field>00N2w00000IarHi</field>
+            <field>00N2w00000IarHj</field>
+            <field>00N2w00000IarHk</field>
+            <field>00N2w00000FxNvz</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -443,23 +488,59 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PJ</field>
+            <field>00N2w00000IarHc</field>
+            <label>Amended Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHd</field>
+            <label>Contracted</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHe</field>
+            <label>Create Contracted Prices</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000FxNvv</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PK</field>
+            <field>00N2w00000FxNvw</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PL</field>
+            <field>00N2w00000FxNvx</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PM</field>
+            <field>00N2w00000IarHg</field>
+            <label>Ordered</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHf</field>
+            <label>Order Group ID</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000FxNvy</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PN</field>
+            <field>00N2w00000IarHh</field>
+            <label>Primary Quote</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHi</field>
+            <label>Quote Pricebook Id</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHj</field>
+            <label>Renewal</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHk</field>
+            <label>Renewed Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000FxNvz</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
@@ -496,11 +577,20 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N2w00000Hf1PJ</field>
-            <field>00N2w00000Hf1PK</field>
-            <field>00N2w00000Hf1PL</field>
-            <field>00N2w00000Hf1PM</field>
-            <field>00N2w00000Hf1PN</field>
+            <field>00N2w00000IarHc</field>
+            <field>00N2w00000IarHd</field>
+            <field>00N2w00000IarHe</field>
+            <field>00N2w00000FxNvv</field>
+            <field>00N2w00000FxNvw</field>
+            <field>00N2w00000FxNvx</field>
+            <field>00N2w00000IarHg</field>
+            <field>00N2w00000IarHf</field>
+            <field>00N2w00000FxNvy</field>
+            <field>00N2w00000IarHh</field>
+            <field>00N2w00000IarHi</field>
+            <field>00N2w00000IarHj</field>
+            <field>00N2w00000IarHk</field>
+            <field>00N2w00000FxNvz</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -661,23 +751,59 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PJ</field>
+            <field>00N2w00000IarHc</field>
+            <label>Amended Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHd</field>
+            <label>Contracted</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHe</field>
+            <label>Create Contracted Prices</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000FxNvv</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PK</field>
+            <field>00N2w00000FxNvw</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PL</field>
+            <field>00N2w00000FxNvx</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PM</field>
+            <field>00N2w00000IarHg</field>
+            <label>Ordered</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHf</field>
+            <label>Order Group ID</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000FxNvy</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PN</field>
+            <field>00N2w00000IarHh</field>
+            <label>Primary Quote</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHi</field>
+            <label>Quote Pricebook Id</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHj</field>
+            <label>Renewal</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHk</field>
+            <label>Renewed Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000FxNvz</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
@@ -715,11 +841,20 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N2w00000Hf1PJ</field>
-            <field>00N2w00000Hf1PK</field>
-            <field>00N2w00000Hf1PL</field>
-            <field>00N2w00000Hf1PM</field>
-            <field>00N2w00000Hf1PN</field>
+            <field>00N2w00000IarHc</field>
+            <field>00N2w00000IarHd</field>
+            <field>00N2w00000IarHe</field>
+            <field>00N2w00000FxNvv</field>
+            <field>00N2w00000FxNvw</field>
+            <field>00N2w00000FxNvx</field>
+            <field>00N2w00000IarHg</field>
+            <field>00N2w00000IarHf</field>
+            <field>00N2w00000FxNvy</field>
+            <field>00N2w00000IarHh</field>
+            <field>00N2w00000IarHi</field>
+            <field>00N2w00000IarHj</field>
+            <field>00N2w00000IarHk</field>
+            <field>00N2w00000FxNvz</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -876,23 +1011,59 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PJ</field>
+            <field>00N2w00000IarHc</field>
+            <label>Amended Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHd</field>
+            <label>Contracted</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHe</field>
+            <label>Create Contracted Prices</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000FxNvv</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PK</field>
+            <field>00N2w00000FxNvw</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PL</field>
+            <field>00N2w00000FxNvx</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PM</field>
+            <field>00N2w00000IarHg</field>
+            <label>Ordered</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHf</field>
+            <label>Order Group ID</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000FxNvy</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PN</field>
+            <field>00N2w00000IarHh</field>
+            <label>Primary Quote</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHi</field>
+            <label>Quote Pricebook Id</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHj</field>
+            <label>Renewal</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHk</field>
+            <label>Renewed Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000FxNvz</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
@@ -929,11 +1100,20 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N2w00000Hf1PJ</field>
-            <field>00N2w00000Hf1PK</field>
-            <field>00N2w00000Hf1PL</field>
-            <field>00N2w00000Hf1PM</field>
-            <field>00N2w00000Hf1PN</field>
+            <field>00N2w00000IarHc</field>
+            <field>00N2w00000IarHd</field>
+            <field>00N2w00000IarHe</field>
+            <field>00N2w00000FxNvv</field>
+            <field>00N2w00000FxNvw</field>
+            <field>00N2w00000FxNvx</field>
+            <field>00N2w00000IarHg</field>
+            <field>00N2w00000IarHf</field>
+            <field>00N2w00000FxNvy</field>
+            <field>00N2w00000IarHh</field>
+            <field>00N2w00000IarHi</field>
+            <field>00N2w00000IarHj</field>
+            <field>00N2w00000IarHk</field>
+            <field>00N2w00000FxNvz</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -1094,23 +1274,59 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PJ</field>
+            <field>00N2w00000IarHc</field>
+            <label>Amended Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHd</field>
+            <label>Contracted</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHe</field>
+            <label>Create Contracted Prices</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000FxNvv</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PK</field>
+            <field>00N2w00000FxNvw</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PL</field>
+            <field>00N2w00000FxNvx</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PM</field>
+            <field>00N2w00000IarHg</field>
+            <label>Ordered</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHf</field>
+            <label>Order Group ID</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000FxNvy</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PN</field>
+            <field>00N2w00000IarHh</field>
+            <label>Primary Quote</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHi</field>
+            <label>Quote Pricebook Id</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHj</field>
+            <label>Renewal</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHk</field>
+            <label>Renewed Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000FxNvz</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
@@ -1148,11 +1364,20 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N2w00000Hf1PJ</field>
-            <field>00N2w00000Hf1PK</field>
-            <field>00N2w00000Hf1PL</field>
-            <field>00N2w00000Hf1PM</field>
-            <field>00N2w00000Hf1PN</field>
+            <field>00N2w00000IarHc</field>
+            <field>00N2w00000IarHd</field>
+            <field>00N2w00000IarHe</field>
+            <field>00N2w00000FxNvv</field>
+            <field>00N2w00000FxNvw</field>
+            <field>00N2w00000FxNvx</field>
+            <field>00N2w00000IarHg</field>
+            <field>00N2w00000IarHf</field>
+            <field>00N2w00000FxNvy</field>
+            <field>00N2w00000IarHh</field>
+            <field>00N2w00000IarHi</field>
+            <field>00N2w00000IarHj</field>
+            <field>00N2w00000IarHk</field>
+            <field>00N2w00000FxNvz</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -1309,23 +1534,59 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PJ</field>
+            <field>00N2w00000IarHc</field>
+            <label>Amended Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHd</field>
+            <label>Contracted</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHe</field>
+            <label>Create Contracted Prices</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000FxNvv</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PK</field>
+            <field>00N2w00000FxNvw</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PL</field>
+            <field>00N2w00000FxNvx</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PM</field>
+            <field>00N2w00000IarHg</field>
+            <label>Ordered</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHf</field>
+            <label>Order Group ID</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000FxNvy</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PN</field>
+            <field>00N2w00000IarHh</field>
+            <label>Primary Quote</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHi</field>
+            <label>Quote Pricebook Id</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHj</field>
+            <label>Renewal</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHk</field>
+            <label>Renewed Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000FxNvz</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
@@ -1362,11 +1623,20 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N2w00000Hf1PJ</field>
-            <field>00N2w00000Hf1PK</field>
-            <field>00N2w00000Hf1PL</field>
-            <field>00N2w00000Hf1PM</field>
-            <field>00N2w00000Hf1PN</field>
+            <field>00N2w00000IarHc</field>
+            <field>00N2w00000IarHd</field>
+            <field>00N2w00000IarHe</field>
+            <field>00N2w00000FxNvv</field>
+            <field>00N2w00000FxNvw</field>
+            <field>00N2w00000FxNvx</field>
+            <field>00N2w00000IarHg</field>
+            <field>00N2w00000IarHf</field>
+            <field>00N2w00000FxNvy</field>
+            <field>00N2w00000IarHh</field>
+            <field>00N2w00000IarHi</field>
+            <field>00N2w00000IarHj</field>
+            <field>00N2w00000IarHk</field>
+            <field>00N2w00000FxNvz</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -1527,23 +1797,59 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PJ</field>
+            <field>00N2w00000IarHc</field>
+            <label>Amended Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHd</field>
+            <label>Contracted</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHe</field>
+            <label>Create Contracted Prices</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000FxNvv</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PK</field>
+            <field>00N2w00000FxNvw</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PL</field>
+            <field>00N2w00000FxNvx</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PM</field>
+            <field>00N2w00000IarHg</field>
+            <label>Ordered</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHf</field>
+            <label>Order Group ID</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000FxNvy</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PN</field>
+            <field>00N2w00000IarHh</field>
+            <label>Primary Quote</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHi</field>
+            <label>Quote Pricebook Id</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHj</field>
+            <label>Renewal</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHk</field>
+            <label>Renewed Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000FxNvz</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
@@ -1581,11 +1887,20 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N2w00000Hf1PJ</field>
-            <field>00N2w00000Hf1PK</field>
-            <field>00N2w00000Hf1PL</field>
-            <field>00N2w00000Hf1PM</field>
-            <field>00N2w00000Hf1PN</field>
+            <field>00N2w00000IarHc</field>
+            <field>00N2w00000IarHd</field>
+            <field>00N2w00000IarHe</field>
+            <field>00N2w00000FxNvv</field>
+            <field>00N2w00000FxNvw</field>
+            <field>00N2w00000FxNvx</field>
+            <field>00N2w00000IarHg</field>
+            <field>00N2w00000IarHf</field>
+            <field>00N2w00000FxNvy</field>
+            <field>00N2w00000IarHh</field>
+            <field>00N2w00000IarHi</field>
+            <field>00N2w00000IarHj</field>
+            <field>00N2w00000IarHk</field>
+            <field>00N2w00000FxNvz</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -1742,23 +2057,59 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PJ</field>
+            <field>00N2w00000IarHc</field>
+            <label>Amended Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHd</field>
+            <label>Contracted</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHe</field>
+            <label>Create Contracted Prices</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000FxNvv</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PK</field>
+            <field>00N2w00000FxNvw</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PL</field>
+            <field>00N2w00000FxNvx</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PM</field>
+            <field>00N2w00000IarHg</field>
+            <label>Ordered</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHf</field>
+            <label>Order Group ID</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000FxNvy</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PN</field>
+            <field>00N2w00000IarHh</field>
+            <label>Primary Quote</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHi</field>
+            <label>Quote Pricebook Id</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHj</field>
+            <label>Renewal</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHk</field>
+            <label>Renewed Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000FxNvz</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
@@ -1795,11 +2146,20 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N2w00000Hf1PJ</field>
-            <field>00N2w00000Hf1PK</field>
-            <field>00N2w00000Hf1PL</field>
-            <field>00N2w00000Hf1PM</field>
-            <field>00N2w00000Hf1PN</field>
+            <field>00N2w00000IarHc</field>
+            <field>00N2w00000IarHd</field>
+            <field>00N2w00000IarHe</field>
+            <field>00N2w00000FxNvv</field>
+            <field>00N2w00000FxNvw</field>
+            <field>00N2w00000FxNvx</field>
+            <field>00N2w00000IarHg</field>
+            <field>00N2w00000IarHf</field>
+            <field>00N2w00000FxNvy</field>
+            <field>00N2w00000IarHh</field>
+            <field>00N2w00000IarHi</field>
+            <field>00N2w00000IarHj</field>
+            <field>00N2w00000IarHk</field>
+            <field>00N2w00000FxNvz</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -1960,23 +2320,59 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PJ</field>
+            <field>00N2w00000IarHc</field>
+            <label>Amended Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHd</field>
+            <label>Contracted</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHe</field>
+            <label>Create Contracted Prices</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000FxNvv</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PK</field>
+            <field>00N2w00000FxNvw</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PL</field>
+            <field>00N2w00000FxNvx</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PM</field>
+            <field>00N2w00000IarHg</field>
+            <label>Ordered</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHf</field>
+            <label>Order Group ID</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000FxNvy</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PN</field>
+            <field>00N2w00000IarHh</field>
+            <label>Primary Quote</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHi</field>
+            <label>Quote Pricebook Id</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHj</field>
+            <label>Renewal</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHk</field>
+            <label>Renewed Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000FxNvz</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
@@ -2014,11 +2410,20 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N2w00000Hf1PJ</field>
-            <field>00N2w00000Hf1PK</field>
-            <field>00N2w00000Hf1PL</field>
-            <field>00N2w00000Hf1PM</field>
-            <field>00N2w00000Hf1PN</field>
+            <field>00N2w00000IarHc</field>
+            <field>00N2w00000IarHd</field>
+            <field>00N2w00000IarHe</field>
+            <field>00N2w00000FxNvv</field>
+            <field>00N2w00000FxNvw</field>
+            <field>00N2w00000FxNvx</field>
+            <field>00N2w00000IarHg</field>
+            <field>00N2w00000IarHf</field>
+            <field>00N2w00000FxNvy</field>
+            <field>00N2w00000IarHh</field>
+            <field>00N2w00000IarHi</field>
+            <field>00N2w00000IarHj</field>
+            <field>00N2w00000IarHk</field>
+            <field>00N2w00000FxNvz</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -2175,23 +2580,59 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PJ</field>
+            <field>00N2w00000IarHc</field>
+            <label>Amended Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHd</field>
+            <label>Contracted</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHe</field>
+            <label>Create Contracted Prices</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000FxNvv</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PK</field>
+            <field>00N2w00000FxNvw</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PL</field>
+            <field>00N2w00000FxNvx</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PM</field>
+            <field>00N2w00000IarHg</field>
+            <label>Ordered</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHf</field>
+            <label>Order Group ID</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000FxNvy</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PN</field>
+            <field>00N2w00000IarHh</field>
+            <label>Primary Quote</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHi</field>
+            <label>Quote Pricebook Id</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHj</field>
+            <label>Renewal</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHk</field>
+            <label>Renewed Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000FxNvz</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
@@ -2228,11 +2669,20 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N2w00000Hf1PJ</field>
-            <field>00N2w00000Hf1PK</field>
-            <field>00N2w00000Hf1PL</field>
-            <field>00N2w00000Hf1PM</field>
-            <field>00N2w00000Hf1PN</field>
+            <field>00N2w00000IarHc</field>
+            <field>00N2w00000IarHd</field>
+            <field>00N2w00000IarHe</field>
+            <field>00N2w00000FxNvv</field>
+            <field>00N2w00000FxNvw</field>
+            <field>00N2w00000FxNvx</field>
+            <field>00N2w00000IarHg</field>
+            <field>00N2w00000IarHf</field>
+            <field>00N2w00000FxNvy</field>
+            <field>00N2w00000IarHh</field>
+            <field>00N2w00000IarHi</field>
+            <field>00N2w00000IarHj</field>
+            <field>00N2w00000IarHk</field>
+            <field>00N2w00000FxNvz</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -2393,23 +2843,59 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PJ</field>
+            <field>00N2w00000IarHc</field>
+            <label>Amended Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHd</field>
+            <label>Contracted</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHe</field>
+            <label>Create Contracted Prices</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000FxNvv</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PK</field>
+            <field>00N2w00000FxNvw</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PL</field>
+            <field>00N2w00000FxNvx</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PM</field>
+            <field>00N2w00000IarHg</field>
+            <label>Ordered</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHf</field>
+            <label>Order Group ID</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000FxNvy</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PN</field>
+            <field>00N2w00000IarHh</field>
+            <label>Primary Quote</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHi</field>
+            <label>Quote Pricebook Id</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHj</field>
+            <label>Renewal</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHk</field>
+            <label>Renewed Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000FxNvz</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
@@ -2447,11 +2933,20 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N2w00000Hf1PJ</field>
-            <field>00N2w00000Hf1PK</field>
-            <field>00N2w00000Hf1PL</field>
-            <field>00N2w00000Hf1PM</field>
-            <field>00N2w00000Hf1PN</field>
+            <field>00N2w00000IarHc</field>
+            <field>00N2w00000IarHd</field>
+            <field>00N2w00000IarHe</field>
+            <field>00N2w00000FxNvv</field>
+            <field>00N2w00000FxNvw</field>
+            <field>00N2w00000FxNvx</field>
+            <field>00N2w00000IarHg</field>
+            <field>00N2w00000IarHf</field>
+            <field>00N2w00000FxNvy</field>
+            <field>00N2w00000IarHh</field>
+            <field>00N2w00000IarHi</field>
+            <field>00N2w00000IarHj</field>
+            <field>00N2w00000IarHk</field>
+            <field>00N2w00000FxNvz</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -2608,23 +3103,59 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PJ</field>
+            <field>00N2w00000IarHc</field>
+            <label>Amended Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHd</field>
+            <label>Contracted</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHe</field>
+            <label>Create Contracted Prices</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000FxNvv</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PK</field>
+            <field>00N2w00000FxNvw</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PL</field>
+            <field>00N2w00000FxNvx</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PM</field>
+            <field>00N2w00000IarHg</field>
+            <label>Ordered</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHf</field>
+            <label>Order Group ID</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000FxNvy</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N2w00000Hf1PN</field>
+            <field>00N2w00000IarHh</field>
+            <label>Primary Quote</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHi</field>
+            <label>Quote Pricebook Id</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHj</field>
+            <label>Renewal</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000IarHk</field>
+            <label>Renewed Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N2w00000FxNvz</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
@@ -2661,11 +3192,20 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N2w00000Hf1PJ</field>
-            <field>00N2w00000Hf1PK</field>
-            <field>00N2w00000Hf1PL</field>
-            <field>00N2w00000Hf1PM</field>
-            <field>00N2w00000Hf1PN</field>
+            <field>00N2w00000IarHc</field>
+            <field>00N2w00000IarHd</field>
+            <field>00N2w00000IarHe</field>
+            <field>00N2w00000FxNvv</field>
+            <field>00N2w00000FxNvw</field>
+            <field>00N2w00000FxNvx</field>
+            <field>00N2w00000IarHg</field>
+            <field>00N2w00000IarHf</field>
+            <field>00N2w00000FxNvy</field>
+            <field>00N2w00000IarHh</field>
+            <field>00N2w00000IarHi</field>
+            <field>00N2w00000IarHj</field>
+            <field>00N2w00000IarHk</field>
+            <field>00N2w00000FxNvz</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
