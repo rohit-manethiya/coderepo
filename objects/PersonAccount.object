@@ -6,6 +6,13 @@
         <description>ELENA</description>
         <label>ELENA</label>
         <picklistValues>
+            <picklist>ELENA__c</picklist>
+            <values>
+                <fullName>C</fullName>
+                <default>true</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
             <picklist>AccountSource</picklist>
             <values>
                 <fullName>Other</fullName>
@@ -26,17 +33,6 @@
             <values>
                 <fullName>Web</fullName>
                 <default>false</default>
-            </values>
-        </picklistValues>
-        <picklistValues>
-            <picklist>ELENA__c</picklist>
-            <values>
-                <fullName>B</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>C</fullName>
-                <default>true</default>
             </values>
         </picklistValues>
         <picklistValues>
