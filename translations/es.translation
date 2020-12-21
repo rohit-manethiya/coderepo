@@ -4333,6 +4333,10 @@
         <name>SBQQ__solution_groups_object_does_not_exist</name>
     </customLabels>
     <customLabels>
+        <label>spanish translation</label>
+        <name>Test_Custom_Label</name>
+    </customLabels>
+    <customLabels>
         <label>Test Label 1</label>
         <name>Test_Label</name>
     </customLabels>
