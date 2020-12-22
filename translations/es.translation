@@ -4,4 +4,8 @@
         <label>spanish translation</label>
         <name>Test_Custom_Label</name>
     </customLabels>
+    <customLabels>
+        <label>Test Label 1</label>
+        <name>Test_Label</name>
+    </customLabels>
 </Translations>
