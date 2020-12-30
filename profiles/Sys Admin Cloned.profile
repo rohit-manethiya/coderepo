@@ -101,10 +101,6 @@
         <visible>true</visible>
     </applicationVisibilities>
     <classAccesses>
-        <apexClass>SayHi</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>SayHiTest</apexClass>
         <enabled>true</enabled>
     </classAccesses>
