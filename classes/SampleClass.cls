@@ -18,4 +18,18 @@ public class SampleClass {
         return a + b;
        
     }
+    public Integer sum() {
+        Integer a =5;
+        Integer b= 6;
+        
+        return a + b;
+       
+    }
+    public Integer sum() {
+        Integer a =5;
+        Integer b= 6;
+        
+        return a + b;
+       
+    }
 }
