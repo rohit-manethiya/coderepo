@@ -10,6 +10,13 @@ public class SampleClass {
     public SampleClass() {
         System.debug('constructor');
     }
+        public Integer subtract() {
+        Integer a =5;
+        Integer b= 6;
+        
+        return a - b;
+       
+    }
     
     public Integer sum() {
         Integer a =5;
@@ -47,6 +54,13 @@ public class SampleClass {
        
     }
     public Integer subtract() {
+        Integer a =5;
+        Integer b= 6;
+        
+        return a - b;
+       
+    }
+        public Integer subtract() {
         Integer a =5;
         Integer b= 6;
         
