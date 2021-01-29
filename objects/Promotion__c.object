@@ -153,16 +153,6 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
-    <fields>
-        <fullName>Field_1__c</fullName>
-        <externalId>false</externalId>
-        <label>Field 1</label>
-        <length>100</length>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
     <label>Promotion</label>
     <nameField>
         <label>Promotion Name</label>
