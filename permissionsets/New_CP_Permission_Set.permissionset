@@ -4,6 +4,7 @@
         <editable>true</editable>
         <field>Promotion__c.Field_2__c</field>
         <readable>true</readable>
+        <sampleTest>forconclitc</sampleTest>
     </fieldPermissions>
     <hasActivationRequired>false</hasActivationRequired>
     <label>New CP Permission Set</label>
