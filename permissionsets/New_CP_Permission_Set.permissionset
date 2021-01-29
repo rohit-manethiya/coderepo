@@ -4,7 +4,7 @@
         <editable>true</editable>
         <field>Promotion__c.Field_1__c</field>
         <readable>true</readable>
-        <conflict>test</conflicts>
+        <conflict>test</conflict>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
