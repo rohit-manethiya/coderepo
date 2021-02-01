@@ -154,16 +154,6 @@
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
     <fields>
-        <fullName>Field_1__c</fullName>
-        <externalId>false</externalId>
-        <label>Field 1</label>
-        <length>100</length>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
         <fullName>Field_2__c</fullName>
         <externalId>false</externalId>
         <label>Field 2</label>

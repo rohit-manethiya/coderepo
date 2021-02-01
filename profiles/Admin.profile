@@ -6542,11 +6542,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Promotion__c.Field_1__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>Promotion__c.Field_2__c</field>
         <readable>true</readable>
     </fieldPermissions>
