@@ -297,16 +297,6 @@
                     <default>false</default>
                     <label>Medium</label>
                 </value>
-                <value>
-                    <fullName>A / B</fullName>
-                    <default>false</default>
-                    <label>A / B</label>
-                </value>
-                <value>
-                    <fullName>B / C</fullName>
-                    <default>false</default>
-                    <label>B / C</label>
-                </value>
             </valueSetDefinition>
         </valueSet>
     </fields>
@@ -1226,7 +1216,7 @@
         <searchResultsAdditionalFields>ACCOUNT.PHONE1</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>CORE.USERS.ALIAS</searchResultsAdditionalFields>
     </searchLayouts>
-    <sharingModel>Private</sharingModel>
+    <sharingModel>ReadWrite</sharingModel>
     <webLinks>
         <fullName>Billing</fullName>
         <availability>online</availability>
