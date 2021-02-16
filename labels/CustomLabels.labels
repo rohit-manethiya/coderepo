@@ -5,14 +5,14 @@
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>Test Custom Label</shortDescription>
-        <value>Test custom label value</value>
+        <value>Test sturvcustom label value</value>
     </labels>
     <labels>
         <fullName>Test_Label</fullName>
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>Test Label</shortDescription>
-        <value>Test Label</value>
+        <value>Test Labelstuv</value>
     </labels>
     <labels>
         <fullName>custom_label_2</fullName>
