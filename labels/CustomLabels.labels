@@ -12,7 +12,7 @@
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>Test Label</shortDescription>
-        <value>Testing Label for Translation</value>
+        <value>Test Label</value>
     </labels>
     <labels>
         <fullName>custom_label_2</fullName>
