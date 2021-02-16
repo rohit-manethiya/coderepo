@@ -5,7 +5,7 @@
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>Test Custom Label</shortDescription>
-        <value>Test sturvcustom label value</value>
+        <value>Test sturvcustttom label value</value>
     </labels>
     <labels>
         <fullName>Test_Label</fullName>
@@ -19,6 +19,6 @@
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>custom label 2</shortDescription>
-        <value>Custom Lable 2</value>
+        <value>Custom La234ble 2</value>
     </labels>
 </CustomLabels>
