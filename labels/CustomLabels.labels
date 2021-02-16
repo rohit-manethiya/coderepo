@@ -11,8 +11,8 @@
         <fullName>Test_Label</fullName>
         <language>en_US</language>
         <protected>true</protected>
-        <shortDescription>Test Label</shortDescription>
-        <value>Test Labelstuv</value>
+        <shortDescription>Test Labeling</shortDescription>
+        <value>Test Labeling</value>
     </labels>
     <labels>
         <fullName>custom_label_2</fullName>
