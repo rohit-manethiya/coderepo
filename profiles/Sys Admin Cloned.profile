@@ -7682,10 +7682,6 @@
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <pageAccesses>
-        <apexPage>SBQQ__InactiveUsersWithPS</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>SBQQ__LineColumnHelp</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
