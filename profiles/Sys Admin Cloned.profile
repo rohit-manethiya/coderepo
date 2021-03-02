@@ -7610,10 +7610,6 @@
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <pageAccesses>
-        <apexPage>SBQQ__QuoteDocumentHelp</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>SBQQ__QuoteHelp</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
