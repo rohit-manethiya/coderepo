@@ -101,10 +101,6 @@
         <visible>true</visible>
     </applicationVisibilities>
     <classAccesses>
-        <apexClass>SBQQ__ElectronicDocumentProcessorTests</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>SBQQ__ElectronicSignaturePlugin</apexClass>
         <enabled>true</enabled>
     </classAccesses>
