@@ -101,10 +101,6 @@
         <visible>true</visible>
     </applicationVisibilities>
     <classAccesses>
-        <apexClass>SBQQ__DiscountScheduleExclusionGenerator</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>SBQQ__DiscountScheduleExclusionGeneratorTests</apexClass>
         <enabled>true</enabled>
     </classAccesses>
