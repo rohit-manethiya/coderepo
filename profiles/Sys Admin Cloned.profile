@@ -7506,10 +7506,6 @@
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <pageAccesses>
-        <apexPage>SBQQ__SolutionGroupHelp</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>SBQQ__SubscribedAssetHelp</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
