@@ -7614,10 +7614,6 @@
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <pageAccesses>
-        <apexPage>SBQQ__ProcessInputHelp</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>SBQQ__ProcessInputValuesHelp</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
