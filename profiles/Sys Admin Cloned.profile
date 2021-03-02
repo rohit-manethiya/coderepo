@@ -7502,10 +7502,6 @@
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <pageAccesses>
-        <apexPage>SBQQ__SummaryVariableHelp</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>SBQQ__TemplateContentHelp</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
