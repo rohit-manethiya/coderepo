@@ -7670,10 +7670,6 @@
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <pageAccesses>
-        <apexPage>SBQQ__NewDiscountSchedule</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>SBQQ__NewOpportunityRelatedContent</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
