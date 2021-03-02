@@ -7610,10 +7610,6 @@
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <pageAccesses>
-        <apexPage>SBQQ__PslUserCsv</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>SBQQ__QuoteDocument</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
