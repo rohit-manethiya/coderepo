@@ -7746,10 +7746,6 @@
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <pageAccesses>
-        <apexPage>SBQQ__CustomScriptSave</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>SBQQ__DiscountCategoryHelp</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
