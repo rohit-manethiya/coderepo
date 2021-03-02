@@ -7626,10 +7626,6 @@
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <pageAccesses>
-        <apexPage>SBQQ__PriceActionHelp</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>SBQQ__PriceConditionHelp</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
