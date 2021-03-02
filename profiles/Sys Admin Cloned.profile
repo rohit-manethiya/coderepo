@@ -7594,10 +7594,6 @@
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <pageAccesses>
-        <apexPage>SBQQ__QuoteSave</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>SBQQ__QuoteTemplateHelp</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
