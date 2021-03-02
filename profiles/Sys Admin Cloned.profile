@@ -101,10 +101,6 @@
         <visible>true</visible>
     </applicationVisibilities>
     <classAccesses>
-        <apexClass>SBQQ__BatchOrderItemAssetContractSubs</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>SBQQ__BatchProcessPSLAssignments</apexClass>
         <enabled>true</enabled>
     </classAccesses>
