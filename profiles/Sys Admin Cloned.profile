@@ -101,10 +101,6 @@
         <visible>true</visible>
     </applicationVisibilities>
     <classAccesses>
-        <apexClass>SBQQ__AbstractPriceRuleEvaluatorTests</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>SBQQ__AbstractProductRuleValidator</apexClass>
         <enabled>true</enabled>
     </classAccesses>
