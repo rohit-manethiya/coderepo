@@ -101,10 +101,6 @@
         <visible>true</visible>
     </applicationVisibilities>
     <classAccesses>
-        <apexClass>SBQQ__ConsumptionScheduleDAOTests</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>SBQQ__ConsumptionScheduleTrigger</apexClass>
         <enabled>true</enabled>
     </classAccesses>
