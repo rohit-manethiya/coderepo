@@ -101,10 +101,6 @@
         <visible>true</visible>
     </applicationVisibilities>
     <classAccesses>
-        <apexClass>SBQQ__DefaultFieldSetService</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>SBQQ__DefaultPageSecurityPlugin</apexClass>
         <enabled>true</enabled>
     </classAccesses>
