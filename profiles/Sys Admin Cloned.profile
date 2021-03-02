@@ -101,10 +101,6 @@
         <visible>true</visible>
     </applicationVisibilities>
     <classAccesses>
-        <apexClass>SBQQ__CustomScriptTranspileClient</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>SBQQ__CustomScriptTrigger</apexClass>
         <enabled>true</enabled>
     </classAccesses>
