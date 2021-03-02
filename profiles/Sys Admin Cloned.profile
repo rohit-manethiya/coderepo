@@ -101,10 +101,6 @@
         <visible>true</visible>
     </applicationVisibilities>
     <classAccesses>
-        <apexClass>SBQQ__ContractedPriceModel</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>SBQQ__ContractedPriceService</apexClass>
         <enabled>true</enabled>
     </classAccesses>
