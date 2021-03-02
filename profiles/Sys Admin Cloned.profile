@@ -101,10 +101,6 @@
         <visible>true</visible>
     </applicationVisibilities>
     <classAccesses>
-        <apexClass>SBQQ__CalculatorReferencedFieldRemover</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>SBQQ__CalculatorServiceFactory</apexClass>
         <enabled>true</enabled>
     </classAccesses>
