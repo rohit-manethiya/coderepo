@@ -7642,10 +7642,6 @@
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <pageAccesses>
-        <apexPage>SBQQ__OrderLineSelector</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>SBQQ__OrderSave</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
