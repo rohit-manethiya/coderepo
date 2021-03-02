@@ -101,10 +101,6 @@
         <visible>true</visible>
     </applicationVisibilities>
     <classAccesses>
-        <apexClass>SBQQ__ErrorConditionDependencyServiceProvider</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>SBQQ__ErrorConditionTrigger</apexClass>
         <enabled>true</enabled>
     </classAccesses>
