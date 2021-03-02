@@ -7582,10 +7582,6 @@
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <pageAccesses>
-        <apexPage>SBQQ__QuoteTermEditor</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>SBQQ__QuoteTermHelp</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
