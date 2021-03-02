@@ -101,10 +101,6 @@
         <visible>true</visible>
     </applicationVisibilities>
     <classAccesses>
-        <apexClass>SBQQ__ConfigurationRuleValidator</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>SBQQ__ConfigurationRuleValidatorTests</apexClass>
         <enabled>true</enabled>
     </classAccesses>
