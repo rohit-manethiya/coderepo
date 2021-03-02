@@ -7702,10 +7702,6 @@
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <pageAccesses>
-        <apexPage>SBQQ__EditWebQuoteLines</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>SBQQ__EffectiveContractedPrices</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
