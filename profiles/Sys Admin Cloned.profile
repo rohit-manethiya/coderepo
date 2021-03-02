@@ -7618,10 +7618,6 @@
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <pageAccesses>
-        <apexPage>SBQQ__PriceDimensionHelp</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>SBQQ__PriceRuleHelp</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
