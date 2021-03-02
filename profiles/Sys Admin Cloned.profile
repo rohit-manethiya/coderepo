@@ -7666,10 +7666,6 @@
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <pageAccesses>
-        <apexPage>SBQQ__NewTemplateContent</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>SBQQ__NewTemplateSectionRelatedContent</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
