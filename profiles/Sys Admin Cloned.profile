@@ -7834,10 +7834,6 @@
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <pageAccesses>
-        <apexPage>SBQQ__CloneProductRule</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>SBQQ__CloneQuote</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
