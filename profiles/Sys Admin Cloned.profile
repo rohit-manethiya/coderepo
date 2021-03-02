@@ -8546,10 +8546,6 @@
         <visible>true</visible>
     </recordTypeVisibilities>
     <tabVisibilities>
-        <tab>SBQQ__QuoteProcess__c</tab>
-        <visibility>DefaultOn</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
         <tab>SBQQ__QuoteTemplate__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
