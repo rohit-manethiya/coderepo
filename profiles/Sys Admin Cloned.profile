@@ -7978,10 +7978,6 @@
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <pageAccesses>
-        <apexPage>SBQQ__AddProducts</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>SBQQ__AddProductsGuided</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
