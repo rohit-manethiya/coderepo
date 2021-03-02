@@ -7530,10 +7530,6 @@
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <pageAccesses>
-        <apexPage>SBQQ__SelectContract</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>SBQQ__SelectContractOpp</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
