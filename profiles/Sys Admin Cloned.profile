@@ -7802,10 +7802,6 @@
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <pageAccesses>
-        <apexPage>SBQQ__ConfigureProducts</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>SBQQ__ContractSave</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
