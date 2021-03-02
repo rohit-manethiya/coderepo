@@ -7530,10 +7530,6 @@
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <pageAccesses>
-        <apexPage>SBQQ__RenewContracts</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>SBQQ__SearchFilterHelp</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
