@@ -7490,10 +7490,6 @@
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <pageAccesses>
-        <apexPage>SBQQ__UsersNeedPSL</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>SBQQ__ViewDocument</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
