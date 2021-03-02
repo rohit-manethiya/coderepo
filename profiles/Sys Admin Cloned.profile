@@ -7498,10 +7498,6 @@
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <pageAccesses>
-        <apexPage>SBQQ__Translations</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>SBQQ__Upgrade</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
