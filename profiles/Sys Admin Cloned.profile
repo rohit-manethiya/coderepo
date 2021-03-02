@@ -7642,10 +7642,6 @@
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <pageAccesses>
-        <apexPage>SBQQ__OptionConstraintHelp</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>SBQQ__OrderContracting</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
