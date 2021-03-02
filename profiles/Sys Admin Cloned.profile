@@ -7858,10 +7858,6 @@
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <pageAccesses>
-        <apexPage>SBQQ__ClonePriceRule</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>SBQQ__CloneProduct</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
