@@ -7610,10 +7610,6 @@
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <pageAccesses>
-        <apexPage>SBQQ__ProductActionHelp</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>SBQQ__ProductFeatureHelp</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
