@@ -7746,10 +7746,6 @@
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <pageAccesses>
-        <apexPage>SBQQ__CustomActionsHelp</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>SBQQ__CustomScriptHelp</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
