@@ -7666,10 +7666,6 @@
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <pageAccesses>
-        <apexPage>SBQQ__NewOpportunityRelatedContent</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>SBQQ__NewQuote</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
