@@ -7606,10 +7606,6 @@
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <pageAccesses>
-        <apexPage>SBQQ__QuoteLineGroupHelp</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>SBQQ__QuoteLineHelp</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
