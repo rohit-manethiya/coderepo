@@ -7742,10 +7742,6 @@
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <pageAccesses>
-        <apexPage>SBQQ__DiscountCategoryHelp</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>SBQQ__DiscountScheduleHelp</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
