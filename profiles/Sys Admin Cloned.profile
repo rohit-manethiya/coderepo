@@ -101,10 +101,6 @@
         <visible>true</visible>
     </applicationVisibilities>
     <classAccesses>
-        <apexClass>SBQQ__BatchableDSExclusionGenerator</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>SBQQ__BatchableDSExclusionGeneratorTests</apexClass>
         <enabled>true</enabled>
     </classAccesses>
