@@ -7806,10 +7806,6 @@
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <pageAccesses>
-        <apexPage>SBQQ__ConfigurationAttributeHelp</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>SBQQ__ConfigurationRuleHelp</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
