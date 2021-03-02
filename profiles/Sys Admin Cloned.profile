@@ -7730,10 +7730,6 @@
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <pageAccesses>
-        <apexPage>SBQQ__DiscountTierHelp</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>SBQQ__EditBlockPrices</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
