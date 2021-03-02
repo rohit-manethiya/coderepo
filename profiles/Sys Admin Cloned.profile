@@ -101,10 +101,6 @@
         <visible>true</visible>
     </applicationVisibilities>
     <classAccesses>
-        <apexClass>SBQQ__CustomActionDefinitions</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>SBQQ__CustomActionRefFieldGenerator</apexClass>
         <enabled>true</enabled>
     </classAccesses>
