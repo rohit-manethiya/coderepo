@@ -101,10 +101,6 @@
         <visible>true</visible>
     </applicationVisibilities>
     <classAccesses>
-        <apexClass>SBQQ__ConfigurationAttributeMapper</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>SBQQ__ConfigurationAttributeMapperTests</apexClass>
         <enabled>true</enabled>
     </classAccesses>
