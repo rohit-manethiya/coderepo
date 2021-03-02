@@ -7490,10 +7490,6 @@
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <pageAccesses>
-        <apexPage>SBQQ__ViewTemplateContent</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>SBQQ__sb</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
