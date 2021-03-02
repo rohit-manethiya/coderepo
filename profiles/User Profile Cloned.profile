@@ -5118,10 +5118,6 @@
     </userPermissions>
     <userPermissions>
         <enabled>false</enabled>
-        <name>ModerateNetworkFeeds</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>false</enabled>
         <name>ModerateNetworkFiles</name>
     </userPermissions>
     <userPermissions>
