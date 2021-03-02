@@ -101,10 +101,6 @@
         <visible>true</visible>
     </applicationVisibilities>
     <classAccesses>
-        <apexClass>SBQQ__DefaultDatabase</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>SBQQ__DefaultElectronicSignaturePlugin</apexClass>
         <enabled>true</enabled>
     </classAccesses>
