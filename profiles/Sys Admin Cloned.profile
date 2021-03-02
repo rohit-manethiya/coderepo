@@ -7489,10 +7489,6 @@
         <object>WorkTypeGroup</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
-    <pageAccesses>
-        <apexPage>SBQQ__sb</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
     <recordTypeVisibilities>
         <default>true</default>
         <recordType>Account.Sample_Account</recordType>
