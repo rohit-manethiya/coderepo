@@ -7614,10 +7614,6 @@
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <pageAccesses>
-        <apexPage>SBQQ__PriceScheduleHelp</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>SBQQ__ProcessInputConditionHelp</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
