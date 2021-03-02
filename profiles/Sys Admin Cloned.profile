@@ -101,10 +101,6 @@
         <visible>true</visible>
     </applicationVisibilities>
     <classAccesses>
-        <apexClass>SBQQ__ContractService</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>SBQQ__ContractServiceAmendRenewTests</apexClass>
         <enabled>true</enabled>
     </classAccesses>
