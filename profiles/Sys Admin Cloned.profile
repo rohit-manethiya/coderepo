@@ -7554,10 +7554,6 @@
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <pageAccesses>
-        <apexPage>SBQQ__RecordJobHelp</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>SBQQ__RefreshMultipleQuotePrices</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
