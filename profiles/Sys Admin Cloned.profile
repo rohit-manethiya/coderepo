@@ -101,10 +101,6 @@
         <visible>true</visible>
     </applicationVisibilities>
     <classAccesses>
-        <apexClass>SBQQ__BatchableConfigAttrReferencedFieldTests</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>SBQQ__BatchableConfigAttrReferencedFieldUtil</apexClass>
         <enabled>true</enabled>
     </classAccesses>
