@@ -7506,10 +7506,6 @@
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <pageAccesses>
-        <apexPage>SBQQ__SiteCloneQuote</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>SBQQ__SiteConfigureProducts</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
