@@ -7922,10 +7922,6 @@
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <pageAccesses>
-        <apexPage>SBQQ__AssetSelector</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>SBQQ__AssetSelectorAmend</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
