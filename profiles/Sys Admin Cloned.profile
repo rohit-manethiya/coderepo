@@ -7698,10 +7698,6 @@
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <pageAccesses>
-        <apexPage>SBQQ__EffectiveContractedPrices</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>SBQQ__EmailDocument</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
