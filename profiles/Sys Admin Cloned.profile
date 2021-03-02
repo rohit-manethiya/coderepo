@@ -7790,10 +7790,6 @@
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <pageAccesses>
-        <apexPage>SBQQ__ContractSelector</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>SBQQ__ContractedPriceHelp</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
