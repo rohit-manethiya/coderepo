@@ -7898,10 +7898,6 @@
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <pageAccesses>
-        <apexPage>SBQQ__CalculateQuoteFromQuoteLine</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>SBQQ__CalculateQuoteFromQuoteLineGroup</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
