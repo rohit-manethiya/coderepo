@@ -101,10 +101,6 @@
         <visible>true</visible>
     </applicationVisibilities>
     <classAccesses>
-        <apexClass>SBQQ__BatchableAssetPriceDimensionSetter</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>SBQQ__BatchableAssetPriceDimensionSetterTests</apexClass>
         <enabled>true</enabled>
     </classAccesses>
