@@ -101,10 +101,6 @@
         <visible>true</visible>
     </applicationVisibilities>
     <classAccesses>
-        <apexClass>SBQQ__AdditionalDocumentsAfterTests</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>SBQQ__AliasedMetaDataUtils</apexClass>
         <enabled>true</enabled>
     </classAccesses>
