@@ -7898,10 +7898,6 @@
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <pageAccesses>
-        <apexPage>SBQQ__BlockPriceHelp</apexPage>
-        <enabled>true</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>SBQQ__CalculateQuote</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
