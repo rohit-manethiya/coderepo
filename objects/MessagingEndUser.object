@@ -112,6 +112,11 @@
         <type>Lookup</type>
     </fields>
     <fields>
+        <fullName>EmployeeId</fullName>
+        <trackHistory>false</trackHistory>
+        <type>Lookup</type>
+    </fields>
+    <fields>
         <fullName>HasInitialResponseSent</fullName>
         <trackHistory>false</trackHistory>
     </fields>
