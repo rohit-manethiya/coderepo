@@ -4,7 +4,7 @@
         <fullName>Test_Label</fullName>
         <language>en_US</language>
         <protected>true</protected>
-        <shortDescription>Test Labeling</shortDescription>
-        <value>Test Labeling</value>
+        <shortDescription>Test Label</shortDescription>
+        <value>Test Label</value>
     </labels>
 </CustomLabels>
