@@ -9,11 +9,11 @@
         <value>Promotions</value>
     </caseValues>
     <fields>
-        <label><!-- Field 1 --></label>
+        <label></label>
         <name>Field_1__c</name>
     </fields>
     <fields>
-        <label><!-- Field 2 --></label>
+        <label></label>
         <name>Field_2__c</name>
     </fields>
     <startsWith>Consonant</startsWith>
