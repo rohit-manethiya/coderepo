@@ -362,6 +362,35 @@
         <trackFeedHistory>true</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>New_Picklist__c</fullName>
+        <externalId>false</externalId>
+        <label>New Picklist</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Sample 1</fullName>
+                    <default>false</default>
+                    <label>Sample 1</label>
+                </value>
+                <value>
+                    <fullName>Sample 2</fullName>
+                    <default>false</default>
+                    <label>Sample 2</label>
+                </value>
+                <value>
+                    <fullName>Sample 3</fullName>
+                    <default>false</default>
+                    <label>Sample 3</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
         <fullName>NumberOfEmployees</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
@@ -591,6 +620,41 @@
         <filterScope>Everything</filterScope>
         <label>Platinum and Gold SLA Customers</label>
     </listViews>
+    <recordTypes>
+        <fullName>New_Record_Type</fullName>
+        <active>true</active>
+        <label>New Record Type</label>
+        <picklistValues>
+            <picklist>New_Picklist_1__c</picklist>
+            <values>
+                <fullName>Sample 4</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Sample 5</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Sample 6</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>New_Picklist__c</picklist>
+            <values>
+                <fullName>Sample 1</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Sample 2</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Sample 3</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+    </recordTypes>
     <searchLayouts>
         <customTabListAdditionalFields>ACCOUNT.NAME</customTabListAdditionalFields>
         <customTabListAdditionalFields>ACCOUNT.ADDRESS1_CITY</customTabListAdditionalFields>
