@@ -7,6 +7,10 @@
     </fieldPermissions>
     <hasActivationRequired>false</hasActivationRequired>
     <label>Custom Permission Set</label>
+    <pageAccesses>
+        <apexPage>NEW_ROHIT</apexPage>
+        <enabled>true</enabled>
+    </pageAccesses>
     <tabSettings>
         <tab>Promotion__c</tab>
         <visibility>Visible</visibility>
