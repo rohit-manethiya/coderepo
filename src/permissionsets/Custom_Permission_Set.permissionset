@@ -7,4 +7,8 @@
     </fieldPermissions>
     <hasActivationRequired>false</hasActivationRequired>
     <label>Custom Permission Set</label>
+    <tabSettings>
+        <tab>Promotion__c</tab>
+        <visibility>Visible</visibility>
+    </tabSettings>
 </PermissionSet>
