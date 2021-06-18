@@ -2525,16 +2525,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Promotion__c.Field_1__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Promotion__c.Field_2__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>ResourceAbsence.Address</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -3256,9 +3246,6 @@
         <layout>ProductConsumptionSchedule-Product Consumption Schedule Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Promotion__c-Promotion Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>QuickText-Quick Text Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -3480,11 +3467,6 @@
         <default>true</default>
         <recordType>Metric.Progress</recordType>
         <visible>true</visible>
-    </recordTypeVisibilities>
-        <recordTypeVisibilities>
-        <default>false</default>
-        <recordType>Promotion__c.Test_Record_TYPE</recordType>
-        <visible>false</visible>
     </recordTypeVisibilities>
     <tabVisibilities>
         <tab>Knowledge__kav</tab>
