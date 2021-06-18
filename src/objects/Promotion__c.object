@@ -179,7 +179,12 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>Promotions</pluralLabel>
-    <searchLayouts/>
+    <recordTypes>
+        <fullName>Test_Record_TYPE</fullName>
+        <active>true</active>
+        <label>Test Record TYPE</label>
+    </recordTypes>
+    <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>

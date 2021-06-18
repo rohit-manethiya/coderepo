@@ -4156,6 +4156,11 @@
         <recordType>Metric.Progress</recordType>
         <visible>true</visible>
     </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <default>true</default>
+        <recordType>Promotion__c.Test_Record_TYPE</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
     <tabVisibilities>
         <tab>Knowledge__kav</tab>
         <visibility>DefaultOn</visibility>
@@ -4563,6 +4568,10 @@
     <userLicense>Salesforce</userLicense>
     <userPermissions>
         <enabled>true</enabled>
+        <name>AIViewInsightObjects</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
         <name>ActivateContract</name>
     </userPermissions>
     <userPermissions>
@@ -4895,10 +4904,6 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
-        <name>ManageClearbitIntegration</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
         <name>ManageContentPermissions</name>
     </userPermissions>
     <userPermissions>
@@ -5064,10 +5069,6 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>ManageUsers</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>ManageZapierIntegration</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
