@@ -12,4 +12,8 @@
     </fieldPermissions>
     <hasActivationRequired>false</hasActivationRequired>
     <label>New CP Permission Set</label>
+    <pageAccesses>
+        <apexPage>MyProfilePage</apexPage>
+        <enabled>true</enabled>
+    </pageAccesses>
 </PermissionSet>
