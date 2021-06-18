@@ -3483,7 +3483,7 @@
     </recordTypeVisibilities>
         <recordTypeVisibilities>
         <default>false</default>
-        <recordType>Promotion__c.Promotion__c.Test_Record_TYPE</recordType>
+        <recordType>Promotion__c.Test_Record_TYPE</recordType>
         <visible>false</visible>
     </recordTypeVisibilities>
     <tabVisibilities>
