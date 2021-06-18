@@ -16,4 +16,8 @@
         <apexPage>MyProfilePage</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
+    <tabSettings>
+        <tab>Promotion__c</tab>
+        <visibility>Visible</visibility>
+    </tabSettings>
 </PermissionSet>
