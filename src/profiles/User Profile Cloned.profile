@@ -219,7 +219,7 @@
     </classAccesses>
     <custom>true</custom>
     <customPermissions>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
         <name>New_CP</name>
     </customPermissions>
     <fieldPermissions>
