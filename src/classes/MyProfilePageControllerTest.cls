@@ -1,5 +1,5 @@
 /**
- * An apex class that updates details of a portal user.
+ * A test class that updates details of a portal user.
    Guest users are never able to access this page.
  */
 @IsTest public with sharing class MyProfilePageControllerTest {
@@ -41,7 +41,7 @@
 
                 controller.cancel();
                 System.assert(controller.getIsEdit() == false);
-
+                // Verify test
                 controller.getUser().Fax = randFax;
                 controller.save();
                 System.assert(controller.getIsEdit() == false);
@@ -50,6 +50,8 @@
             // verify that the user was updated
             existingPortalUser = [Select id, fax from User where id =: existingPortalUser.Id];
             System.assert(existingPortalUser.fax == randFax);
+            
+            // Verifying tests
         }
     }
 }
