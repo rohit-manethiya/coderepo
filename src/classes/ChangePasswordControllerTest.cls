@@ -8,7 +8,7 @@
         controller.oldPassword = '123456';
         controller.newPassword = 'qwerty1'; 
         controller.verifyNewPassword = 'qwerty1';                
-        
+        // Manual commit outside of copado
         System.assertEquals(controller.changePassword(),null);                           
     }    
 }
