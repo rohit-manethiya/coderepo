@@ -173,13 +173,23 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
+    <fields>
+        <fullName>Field_3__c</fullName>
+        <externalId>false</externalId>
+        <label>Field 3</label>
+        <length>255</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <label>Promotion</label>
     <nameField>
         <label>Promotion Name</label>
         <type>Text</type>
     </nameField>
     <pluralLabel>Promotions</pluralLabel>
-    <searchLayouts/>
+    <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>
