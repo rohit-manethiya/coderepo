@@ -11,6 +11,6 @@ public with sharing class ChangePasswordController {
     }     
     
    	public ChangePasswordController() {
-        System.debug('Changes in master branch');
+        System.debug('Changes in branch1');
     }
 }
